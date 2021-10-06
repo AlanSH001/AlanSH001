@@ -6,7 +6,7 @@ $persona1->saludar();
 
 
 $peso = 90;
-$estatura = 1.82;
+$estatura = 1.82 * 182;
 
 $IMC = $peso/$estatura;
 echo ('el IMC es : ' . $IMC);
